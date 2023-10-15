@@ -1,0 +1,22 @@
+.flex{
+    display: flex;
+}
+.item-center {
+    align-items: center;
+}
+.justify-center{
+    justify-content: center;
+}
+.space-bw{
+    justify-content: space-between;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+.sembold{
+font-weight: bolder;
+}
+.icon{
+margin-left: 10px;
+margin-right: 10px;
+}
