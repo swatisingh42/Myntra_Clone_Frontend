@@ -1,2 +1,2 @@
-# Ineubytes_task3
+# Myntra_Clone_Frontend
 Myntra Clone
